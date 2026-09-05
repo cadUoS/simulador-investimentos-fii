@@ -138,6 +138,9 @@ simulador-investimentos-fii/
 │
 └── images/
     └── Simulação_Moderado.png
+    └── Simulação_Agressivo.png
+    └── Simulação_Conservador.png
+    └── Tabela_de_Apoio.png
 
 
 ⚠️ Aviso
